@@ -43,8 +43,12 @@ My completed activities live in [my copy of the course repo](https://github.com/
 
 | Module | Assignment | What it shows |
 | --- | --- | --- |
-| 3 | [Four-Year Degree Plan](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-3/Module-3-Four-Year-Degree-Plan-Activity.md) | My semester-by-semester plan to finish Applied AI with a Food Science minor by Fall 2027 |
+| 2 | [SWOT Analysis](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-2/Module-2-SWOT-Analysis-Activity.md) | My strengths, weaknesses, opportunities, and threats as I finish my degree |
+| 2 | [Empathy Map](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-2/Module-2-Empathy-Map-Activity.md) | What I think, feel, say, and do, and the gaps between them |
+| 3 | [POV Statement](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-3/Module-3-POV-Statement-Activity.md) | My point-of-view statement for my academic and career direction |
+| 3 | [SMART Goals](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-3/Module-3-SMART-Goals-Activity.md) | Five goals for academics, career, and personal development |
 | 3 | [Career-to-Degree Map](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-3/Module-3-Career-to-Degree-Map-Activity.md) | Research on two careers (Food Product Developer and AI Applications Developer) mapped to my courses |
+| 3 | [Four-Year Degree Plan](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-3/Module-3-Four-Year-Degree-Plan-Activity.md) | My semester-by-semester plan to finish Applied AI with a Food Science minor by Fall 2027 |
 | 4 | [RIASEC Profile Summary](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-4/Module-4-RIASEC-Assessment-and-Build-Your-Profile.md) | My Holland Code (E-I-C), what it means, and my reflection |
 
 ## Skills I Am Developing
