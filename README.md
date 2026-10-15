@@ -37,7 +37,15 @@ If you are visiting: the folders listed below hold my coursework, and this READM
 | [`reflections/`](reflections/) | Written reflections on what I am learning |
 | [`career-exploration/`](career-exploration/) | Career research, informational interviews, and planning activities |
 
-Links to individual assignments will be added here as I complete them.
+### Completed assignments
+
+My completed activities live in [my copy of the course repo](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree). Links to each one:
+
+| Module | Assignment | What it shows |
+| --- | --- | --- |
+| 3 | [Four-Year Degree Plan](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-3/Module-3-Four-Year-Degree-Plan-Activity.md) | My semester-by-semester plan to finish Applied AI with a Food Science minor by Fall 2027 |
+| 3 | [Career-to-Degree Map](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-3/Module-3-Career-to-Degree-Map-Activity.md) | Research on two careers (Food Product Developer and AI Applications Developer) mapped to my courses |
+| 4 | [RIASEC Profile Summary](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-4/Module-4-RIASEC-Assessment-and-Build-Your-Profile.md) | My Holland Code (E-I-C), what it means, and my reflection |
 
 ## Skills I Am Developing
 
