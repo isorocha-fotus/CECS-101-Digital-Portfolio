@@ -50,6 +50,7 @@ My completed activities live in [my copy of the course repo](https://github.com/
 | 3 | [Career-to-Degree Map](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-3/Module-3-Career-to-Degree-Map-Activity.md) | Research on two careers (Food Product Developer and AI Applications Developer) mapped to my courses |
 | 3 | [Four-Year Degree Plan](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-3/Module-3-Four-Year-Degree-Plan-Activity.md) | My semester-by-semester plan to finish Applied AI with a Food Science minor by Fall 2027 |
 | 4 | [RIASEC Profile Summary](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-4/Module-4-RIASEC-Assessment-and-Build-Your-Profile.md) | My Holland Code (E-I-C), what it means, and my reflection |
+| 4 | [Career Exploration Map](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-4/Module-4-Career-Exploration-Map-Activity.md) | Three careers compared (AI Applications Developer, Sales Engineer, Food Scientist) with pay, outlook, and my T-shape for each |
 
 ## Skills I Am Developing
 
