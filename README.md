@@ -52,6 +52,7 @@ My completed activities live in [my copy of the course repo](https://github.com/
 | 4 | [RIASEC Profile Summary](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-4/Module-4-RIASEC-Assessment-and-Build-Your-Profile.md) | My Holland Code (E-I-C), what it means, and my reflection |
 | 4 | [Career Exploration Map](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-4/Module-4-Career-Exploration-Map-Activity.md) | Three careers compared (AI Applications Developer, Sales Engineer, Food Scientist) with pay, outlook, and my T-shape for each |
 | 4 | [Career Vision Statement](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-4/Module-4-Career-Vision-Statement-Activity.md) | My vision for building technology and food products with small producers |
+| 5 | [Mindset Reflection](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-5/Module-5-Mindset-Reflection.md) | How I handle uncertainty and revision, and the assumption in my plan I need to test |
 
 ## Skills I Am Developing
 
