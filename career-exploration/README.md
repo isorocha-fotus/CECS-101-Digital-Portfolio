@@ -16,3 +16,4 @@ This folder tracks the paths I am looking into, the people and roles I research,
 - [Module 4: Career Exploration Map](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-4/Module-4-Career-Exploration-Map-Activity.md)
 - [Module 4: Career Vision Statement](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-4/Module-4-Career-Vision-Statement-Activity.md)
 - [Module 5: Integrated Career-Degree Roadmap](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-5/Module-5-Integrated-Career-Degree-Roadmap.md)
+- [Module 5: Stress-Testing My Plan](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-5/Module-5-Stress-Test-Your-Plan.md)
