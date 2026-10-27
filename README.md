@@ -55,6 +55,7 @@ My completed activities live in [my copy of the course repo](https://github.com/
 | 5 | [Mindset Reflection](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-5/Module-5-Mindset-Reflection.md) | How I handle uncertainty and revision, and the assumption in my plan I need to test |
 | 5 | [Integrated Career-Degree Roadmap](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-5/Module-5-Integrated-Career-Degree-Roadmap.md) | My degree and career plans side by side across four stages, from food science to Applied AI to launch |
 | 5 | [Stress-Testing My Plan](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-5/Module-5-Stress-Test-Your-Plan.md) | Five stress tests on my roadmap, my three biggest vulnerabilities, and how I'll address them |
+| 5 | [Contingency Plans: A, B, and C](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-5/Module-5-Contingency-Plans.md) | Three connected paths: my own food-tech company, solutions engineering, and food product development |
 
 ## Skills I Am Developing
 
