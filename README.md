@@ -58,6 +58,7 @@ My completed activities live in [my copy of the course repo](https://github.com/
 | 5 | [Contingency Plans: A, B, and C](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-5/Module-5-Contingency-Plans.md) | Three connected paths: my own food-tech company, solutions engineering, and food product development |
 | 5 | [Adaptive Professional Strategy](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-5/Module-5-Adaptive-Professional-Strategy.md) | 12-month commitments for learning, networking, visibility, and reflection, plus my pledge to my future self |
 | 6 | [48-Hour Tool Adoption Challenge](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-6/Module-6-48-Hour-Tool-Adoption-Challenge.md) | How I learned ChatGPT's image generator, with Gemini writing my prompts, to design the Honeybee logo for my services |
+| 10 | [AI Ethics in Hiring: Executive Memo](https://github.com/isorocha-fotus/cecs-101-design-your-career-design-your-degree/blob/main/module-10/ai_ethics_hiring_leader.md) | As Chief People Officer, my recommendation on an AI hiring platform (a limited, human-reviewed pilot) and my reflection |
 
 ## Skills I Am Developing
 
